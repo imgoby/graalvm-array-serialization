@@ -1,3 +1,8 @@
+
+ReflectionFactory.getReflectionFactory().newConstructorForSerialization() is not supported in native-image
+
+this is an example to reproduce it.
+
 step 1: install jdk and graalvm：
 ```
 sdk install java 17.0.10-graal
