@@ -1,0 +1,14 @@
+{
+  "types": [
+    {
+      "name": "[F",
+        "customTargetConstructorClass": "java.lang.Object"
+    },
+    { "name":"float[]" },
+    {
+      "name":"java.lang.reflect.Array"
+    }
+  ],
+  "lambdaCapturingTypes": [],
+  "proxies": []
+}
